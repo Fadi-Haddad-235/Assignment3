@@ -1,0 +1,65 @@
+#main-div{
+    width:70%;
+    margin:auto;
+    padding-top: 100px;
+    margin-bottom: 200px;
+    font-family:'Roboto'
+}
+#header
+{
+    padding-top:10px;
+    background-color: #668284;
+    }
+#profile-pic
+{
+    border-radius: 40%;
+    height: 85px;
+    width: 95px;
+    margin-left :280px;
+}
+#name {
+    float:left;
+	margin-left: 20px;
+	padding-bottom: 10px;
+	font-size: 22px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
+
+#email{
+    float:right;
+    margin-right: 20px;
+	padding-bottom: 10px;
+    padding-top: 5px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
+
+.highlights
+{
+    margin-top: 50px;
+    padding-left:50px;
+    height: auto;
+    background-color: #E3EDD8;
+    }
+
+h3
+{
+text-decoration: underline;
+}
+
+table
+{
+    border: 1px dashed black;
+    }
+td
+{
+    padding: 2px;
+    border: 1px solid #E88741;
+    }
+
+#table-heading
+{
+    font-weight:bold;
+    }
